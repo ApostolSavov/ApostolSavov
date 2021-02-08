@@ -1,4 +1,4 @@
-![Alt Text](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
+![Alt Text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 <h1 align="center">Hi 👽, I'm Apostol</h1>
 <h3 align="center">A soon-to-be front end dev</h3>
 
