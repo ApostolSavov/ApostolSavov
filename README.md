@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="animated" />
-</p>
 <h1 align="center">Hi , I'm Apostol 👽</h1>
 <h3 align="center">Hopefully, a soon-to-be front end dev</h3>
 
