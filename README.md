@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Apostol 😃</h1>
 <h3 align="center">a soon-to-be front end dev</h3>
 
+<h3 align="center">currently learning React and Redux</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apostolsavov&label=Profile%20views&color=0e75b6&style=flat" alt="apostolsavov" /> </p>
 
 <h3 align="left">Connect with me:</h3>
