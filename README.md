@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Apostol 😃</h1>
-<h3 align="center">a soon-to-be front end dev</h3>
+<h3 align="center">a soon-to-be web dev</h3>
 
 <h3 align="center">currently learning React and Redux</h3>
 
